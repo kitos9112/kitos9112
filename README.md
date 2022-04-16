@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![kitos9112’ Github Metrics](https://github.com/kitos9112/kitos9112/blob/main/github-metrics.svg)
