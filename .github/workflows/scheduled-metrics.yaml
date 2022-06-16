@@ -53,6 +53,10 @@ jobs:
           # The stars plugin displays your recently starred repositories.
           plugin_stars: yes
           plugin_stars_limit: 4 # Limit to 4 entries
+          
+          # Pinned repositories
+          plugin_repositories: yes
+          plugin_repositories_pinned: 4
 
           # The reactions plugin displays overall reactions on your recent issues and issue comments.
           plugin_reactions: yes
