@@ -541,7 +541,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 1.11mb of code in 922 edited files across 295 commits over last 13 days</small>
+                <small>estimation from 1.11mb of code in 922 edited files across 295 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -3052,7 +3052,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>andrew-s-taylor/public</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Public Scripts and Apps</div>
@@ -3501,7 +3501,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 Jul 2023, 03:13:54 (timezone Europe/London) with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 8 Jul 2023, 13:53:22 (timezone Europe/London) with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
