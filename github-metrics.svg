@@ -3013,7 +3013,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pyenv/pyenv-installer</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This tool is used to install `pyenv` and friends.</div>
@@ -3066,7 +3066,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>FRRouting/frr</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The FRRouting Protocol Suite</div>
@@ -3457,7 +3457,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 16 Mar 2024, 00:46:47 (timezone Europe/London) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 16 Mar 2024, 12:38:18 (timezone Europe/London) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
