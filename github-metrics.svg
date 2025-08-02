@@ -543,7 +543,7 @@
                 <h3 class="field">Recently used languages</h3>
                 <small>No recent push activity found
                 
-                  over last 13 days</small>
+                  over last 14 days</small>
                 <div class="row fill-width">
                     <section>
                     </section>
@@ -3013,7 +3013,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>NVIDIA/egl-wayland</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The EGLStream-based Wayland external platform</div>
@@ -3066,7 +3066,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>redhat-performance/tuned</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tuning Profile Delivery Mechanism for Linux</div>
@@ -3119,7 +3119,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fortra/impacket</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Impacket is a collection of Python classes for working with network protocols.</div>
@@ -3172,7 +3172,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>librespeed/speedtest</span>
-                                        <span>starred 15 days ago</span>
+                                        <span>starred 16 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more</div>
@@ -3460,7 +3460,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 2 Aug 2025, 01:47:57 (timezone Europe/London) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 2 Aug 2025, 13:45:23 (timezone Europe/London) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
