@@ -543,7 +543,7 @@
                 <h3 class="field">Recently used languages</h3>
                 <small>No recent push activity found
                 
-                  over last 13 days</small>
+                  over last 14 days</small>
                 <div class="row fill-width">
                     <section>
                     </section>
@@ -3018,7 +3018,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>oddmario/NVIDIA-Ubuntu-Driver-Guide</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A little guide to help you install &amp; manage NVIDIA GPU driver on your Ubuntu system</div>
@@ -3165,7 +3165,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>redhat-performance/tuned</span>
-                                        <span>starred 12 days ago</span>
+                                        <span>starred 13 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tuning Profile Delivery Mechanism for Linux</div>
@@ -3453,7 +3453,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 10 Aug 2025, 01:48:28 (timezone Europe/London) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 10 Aug 2025, 13:45:16 (timezone Europe/London) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
